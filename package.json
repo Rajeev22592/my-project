@@ -16,7 +16,7 @@
 }
 {
   "scripts": {
-    "build": "your-framework-command build --output public"
+    "build":  "vite build --outDir public"
   }
 }
 
